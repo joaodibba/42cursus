@@ -4,3 +4,6 @@
 [submodule "42_get_next_line"]
 	path = 42_get_next_line
 	url = https://github.com/joaodibba/42_get_next_line
+[submodule "42_printf"]
+	path = 42_printf
+	url = https://github.com/joaodibba/42_printf
