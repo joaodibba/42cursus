@@ -13,3 +13,6 @@
 [submodule "42_so_long"]
 	path = 42_so_long
 	url = https://github.com/joaodibba/42_so_long
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = https://github.com/joaodibba/42_minitalk
