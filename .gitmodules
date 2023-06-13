@@ -10,3 +10,6 @@
 [submodule "42_libft"]
 	path = 42_libft
 	url = https://github.com/joaodibba/42_libft
+[submodule "42_so_long"]
+	path = 42_so_long
+	url = /42_so_long/
