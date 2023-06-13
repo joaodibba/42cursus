@@ -1,3 +1,18 @@
 [submodule "42_libft"]
 	path = 42_libft
 	url = git@github.com:joaodibba/42_libft.git
+[submodule "42_so_long"]
+	path = 42_so_long
+	url = git@github.com:joaodibba/42_so_long.git
+[submodule "42_printf"]
+	path = 42_printf
+	url = git@github.com:joaodibba/42_printf.git
+[submodule "42_get_next_line"]
+	path = 42_get_next_line
+	url = git@github.com:joaodibba/42_get_next_line.git
+[submodule "42_born2beroot"]
+	path = 42_born2beroot
+	url = git@github.com:joaodibba/42_born2beroot.git
+[submodule "42_minitalk"]
+	path = 42_minitalk
+	url = git@github.com:joaodibba/42_minitalk.git
