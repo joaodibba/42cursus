@@ -5,7 +5,7 @@
 |   01   | [**libft**](https://github.com/joaodibba/42_libft)                                   |               C                |
 |   02   | [**ft_printf**](https://github.com/joaodibba/42_printf)                              |               C                |
 |        | [**get_next_line**](https://github.com/joaodibba/42_get_next_line)                   |               C                |
-|        | [**born2beroot**](https://github.com/joaodibba/42_born2beroot)                       |              n/a               |
+|        | [**born2beroot**](                                           )                       |              n/a               |
 |   03   | [**minitalk**](https://github.com/joaodibba/42_minitalk)                             |               C                |
 |        | [**so long**](https://github.com/joaodibba/42_so_long)                               |               C                |
 |        | [**Push Swap**](https://github.com/joaodibba/42_push_swap)                           |               C                |
