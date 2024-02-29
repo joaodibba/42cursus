@@ -1,10 +1,13 @@
 ## :notebook_with_decorative_cover: 42cursus
 ---
-| Circle | Project                                                                              |            Language            |                                      Score                                       |
-| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: |
-|   01   | [**libft**](https://github.com/joaodibba/42_libft)                                   |               C                | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/2907454) |
-|   02   | [**ft_printf**](https://github.com/joaodibba/42_printf)                              |               C                | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/2926487) |
-|        | [**get_next_line**](https://github.com/joaodibba/42_get_next_line)                   |               C                | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/2926489) |
-|        | [**born2beroot**](https://github.com/joaodibba/42_born2beroot)                       |              n/a               | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/2926488) |
-|   03   | [**minitalk**](https://github.com/joaodibba/42_minitalk)                             |               C                | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/3063934) |
-|        | [**so long**](https://github.com/joaodibba/42_so_long)                               |               C                | ![](https://badge42.vercel.app/api/v2/clacptmip00250flbknwssui8/project/3033155) |
+| Circle | Project                                                                              |            Language            |
+| :----: | :----------------------------------------------------------------------------------- | :----------------------------: |
+|   01   | [**libft**](https://github.com/joaodibba/42_libft)                                   |               C                |
+|   02   | [**ft_printf**](https://github.com/joaodibba/42_printf)                              |               C                |
+|        | [**get_next_line**](https://github.com/joaodibba/42_get_next_line)                   |               C                |
+|        | [**born2beroot**](https://github.com/joaodibba/42_born2beroot)                       |              n/a               |
+|   03   | [**minitalk**](https://github.com/joaodibba/42_minitalk)                             |               C                |
+|        | [**so long**](https://github.com/joaodibba/42_so_long)                               |               C                |
+|        | [**Push Swap**](https://github.com/joaodibba/42_push_swap)                           |               C                |
+|   04   | [**Philosophers**](https://github.com/joaodibba/42_philosophers)                     |               C                |
+|        | [**Minishell**](https://github.com/joaodibba/42_minishell)                           |               C                |
