@@ -10,9 +10,15 @@
 [submodule "42_get_next_line"]
 	path = 42_get_next_line
 	url = git@github.com:joaodibba/42_get_next_line.git
-[submodule "42_born2beroot"]
-	path = 42_born2beroot
-	url = git@github.com:joaodibba/42_born2beroot.git
 [submodule "42_minitalk"]
 	path = 42_minitalk
 	url = git@github.com:joaodibba/42_minitalk.git
+[submodule "42_push_swap"]
+	path = 42_push_swap
+	url = https://github.com/joaodibba/42_push_swap
+[submodule "42_philosophers"]
+	path = 42_philosophers
+	url = https://github.com/joaodibba/42_philosophers
+[submodule "42_minishell"]
+	path = 42_minishell
+	url = https://github.com/joaodibba/42_Minishell
